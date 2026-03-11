@@ -1,3 +1,6 @@
+/*Receber um comprimento em metros, convertê-lo para 
+centímetros e mostrar o resultado*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
