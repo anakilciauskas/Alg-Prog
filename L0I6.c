@@ -4,10 +4,8 @@ Atribua um valor adequado e mostre no console.*/
 #include <stdio.h>
 
 	int main(){
-		int idade;
-		printf("qual sua idade?\n");
-		scanf("%d", &idade);
-		printf("A idade e %d", idade);
+		int idade = 18;
+		printf("A idade e %d anos", idade);
 		
 		return 0;
 	}
