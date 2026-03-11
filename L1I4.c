@@ -1,3 +1,6 @@
+/*Receber o ano de nascimento de uma pessoa e mostrar
+aproximadamente quantos dias de vida ela tem*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -10,6 +13,5 @@
 		dia = (2026-ano)*365;
 		printf("Voce tem aprox %d dias de vida", dia);
 		
-	
 		return 0;
 	}
