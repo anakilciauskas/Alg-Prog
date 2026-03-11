@@ -1,10 +1,13 @@
+/*Receber dois números e os apresente em ordem crescente. Utilize
+apenas a estrutura de decisão if, ou seja, sem o opcional else*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int main(){
-	int num1, num2; //cria duas variaveis do tipo inteiro
-	printf("Escreva dois valores\n"); //escreve na tela
-	scanf("%d %d", &num1, &num2); //le os valores inseridos e os atribui as variaveis
+	int num1, num2;
+	printf("Escreva dois valores\n");
+	scanf("%d %d", &num1, &num2);
 
 	if(num1>num2){
 		printf("Os valores em ordem crescente sao:\n%d\n%d", num2, num1);
