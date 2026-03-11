@@ -9,5 +9,4 @@ de uma pessoa. Atribua um valor e mostre no console.*/
 		printf("A inicial do nome e %c", inicial);
 	
 		return 0;
-
 	}
