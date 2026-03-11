@@ -1,3 +1,6 @@
+/*Receber base e altura de um triângulo, calcular sua área 
+e exibir o valor calculado*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
