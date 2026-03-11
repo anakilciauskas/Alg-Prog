@@ -1,3 +1,5 @@
+/*Receber dois valores, calcular sua média aritmética e exibir o resultado*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
