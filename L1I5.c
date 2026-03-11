@@ -1,3 +1,6 @@
+/*Criar um programa em Linguagem C que receba dois números inteiros 
+e retorne: o valor da divisão e o resto da divisão*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
